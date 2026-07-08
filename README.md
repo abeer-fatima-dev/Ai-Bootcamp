@@ -1,0 +1,2 @@
+# Ai-Bootcamp
+My AI &amp; Machine Learning Bootcamp projects, assignments, and hands-on practice.
