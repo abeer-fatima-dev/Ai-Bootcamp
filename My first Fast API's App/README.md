@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **My first Fast API App ** is a RESTful application developed using **FastAPI** as part of the AI Bootcamp at PureLogics. The project demonstrates the fundamentals of backend API development by implementing CRUD (Create, Read, Update, and Delete) operations while following a clean and modular project structure.
+The My first Fast API App is a RESTful application developed using **FastAPI** as part of the AI Bootcamp at PureLogics. The project demonstrates the fundamentals of backend API development by implementing CRUD (Create, Read, Update, and Delete) operations while following a clean and modular project structure.
 
 The application exposes REST endpoints that can be tested using both Swagger UI and Postman, making it suitable for learning API development and backend architecture.
 
@@ -39,7 +39,7 @@ The primary objectives of this project are to:
 ## Project Structure
 
 ```text
-Student-Performance-Prediction-App/
+My-first-Fast-App/
 │
 ├── app/
 │   ├── __init__.py
